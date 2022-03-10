@@ -1,0 +1,7 @@
+n = int(input("ENTER A NUMBER : "))
+a = int(n*n)
+b = int(n*n*n)
+print("n is:", n)
+print("n*n is:", a)
+print("n*n*n is:", b)
+print(int(n),'+',a, '+', b, '= ',int(n)+a+b)
